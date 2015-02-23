@@ -393,6 +393,7 @@
 				371A7E461A9B328200D269A9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		371A7E471A9B328200D269A9 /* Build configuration list for PBXNativeTarget "TwitchPlayerTests" */ = {
 			isa = XCConfigurationList;
@@ -401,6 +402,7 @@
 				371A7E491A9B328200D269A9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
